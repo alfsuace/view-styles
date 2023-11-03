@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UtStyles</string>
+    <string name="label_action_save">Guardar</string>
+    <string name="title_category">Descuentos</string>
+    <string name="title_card_category">Alojamientos</string>
+    <string name="body_card_category">Texto de ejemplo</string>
+    <string name="offer_detail_favourite">likaso</string>
+    <string name="offer_detail_share">compartision</string>
+    <string name="title_audio">AUDIO 21</string>
+</resources>
