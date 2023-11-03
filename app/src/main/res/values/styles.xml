@@ -21,8 +21,9 @@
 
     </style>
 
-    <style name="AppSecondToolbar" parent="Widget.Material3.Toolbar">
+    <style name="AppSecondToolbar" parent="Widget.Material3.CollapsingToolbar.Medium">
         <item name="titleTextColor">?attr/colorPrimary</item>
+        <item name="android:textColor">?attr/colorPrimary</item>
     </style>
 
 </resources>
