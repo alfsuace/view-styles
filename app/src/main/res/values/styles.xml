@@ -14,11 +14,15 @@
     </style>
 
     <style name="AppTitleCard" parent="TextAppearance.Material3.HeadlineSmall">
-
+        <item name="android:textColor">?attr/colorPrimary</item>
     </style>
 
     <style name="AppBodyCard" parent="TextAppearance.Material3.BodyLarge">
 
+    </style>
+
+    <style name="AppSecondToolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">?attr/colorPrimary</item>
     </style>
 
 </resources>

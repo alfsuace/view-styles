@@ -7,4 +7,9 @@
     <string name="offer_detail_favourite">likaso</string>
     <string name="offer_detail_share">compartision</string>
     <string name="title_audio">AUDIO 21</string>
+    <string name="title_factory">Otros Salud y Belleza</string>
+    <string name="title_email">Email no disponible</string>
+    <string name="title_phone">123456879</string>
+    <string name="title_web">https:www.audio21.es/</string>
+    <string name="title_data">datos</string>
 </resources>
